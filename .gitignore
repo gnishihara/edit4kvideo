@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.mp4
+*.MP4
+*.MOV
+*.mov
+*.mkv
+*.MKV
+./Data/
+./Data_Out/
